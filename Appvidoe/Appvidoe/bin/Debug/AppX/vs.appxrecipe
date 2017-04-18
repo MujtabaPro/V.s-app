@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAB4-126</Machine>
+    <WindowsUser>asp</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>77ddc3b6-cade-4867-80ad-d3b8f73a85de</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\asp\Desktop\Appvidoe\Appvidoe\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>CEDE313A72DBA9F5AEA3289AA4EC54E6D9B69760F180C53D6DD5F89B62404CAA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>77ddc3b6-cade-4867-80ad-d3b8f73a85de_1.0.0.0_neutral__79ejfqzfbtfcm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>77ddc3b6-cade-4867-80ad-d3b8f73a85de_79ejfqzfbtfcm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>77ddc3b6-cade-4867-80ad-d3b8f73a85de</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=asp</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\asp\Desktop\Appvidoe\Appvidoe\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-18T09:31:50.064</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Appvidoe\Appvidoe\bin\Debug\Appvidoe.exe">
+      <PackagePath>Appvidoe.exe</PackagePath>
+      <Modified>2017-04-18T09:33:16.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Appvidoe\Appvidoe\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Appvidoe\Appvidoe\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Appvidoe\Appvidoe\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Appvidoe\Appvidoe\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Appvidoe\Appvidoe\Assets\vid.png">
+      <PackagePath>Assets\vid.png</PackagePath>
+      <Modified>2017-04-18T09:30:15.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Appvidoe\Appvidoe\Assets\video.jpg">
+      <PackagePath>Assets\video.jpg</PackagePath>
+      <Modified>2017-04-18T09:28:35.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Appvidoe\Appvidoe\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-04-18T09:00:52.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Appvidoe\Appvidoe\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-04-18T09:32:23.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Appvidoe\Appvidoe\bin\Debug\Appvidoe.xr.xml">
+      <PackagePath>Appvidoe.xr.xml</PackagePath>
+      <Modified>2017-04-18T09:31:49.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Appvidoe\Appvidoe\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-04-18T09:31:49.669</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
